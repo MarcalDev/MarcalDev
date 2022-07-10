@@ -1,8 +1,7 @@
 ## Olá! Eu sou o João Marçal
 
-- 🔭 Hoje trabalho com desenvolvimento mobile
-- 🌱 Estudando Xamarin Forms
-- 😄 Pronouns: ele/dele
+- 🔭 Trabalho com desenvolvimento mobile
+- 🌱 Estudando Xamarin Forms e C#
 
 <div align="Center">
   <a href="https://github.com/MarcalDev">
