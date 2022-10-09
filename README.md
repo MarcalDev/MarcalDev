@@ -1,7 +1,7 @@
-## Olá! Eu sou o João Marçal
+## Hello! I'm João Marçal!
 
-- 🔭 Trabalho com desenvolvimento mobile
-- 🌱 Estudando Xamarin Forms e C#
+- 🔭  Working with Xamarin Forms and C#
+- 🌱  Studying Flutter for mobile
 
 <div align="Center">
   <a href="https://github.com/MarcalDev">
