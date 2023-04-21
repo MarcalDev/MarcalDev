@@ -1,7 +1,8 @@
 ## Hello! I'm João Marçal!
 
-- 🔭  Working with Xamarin Forms and C#
-- 🌱  Studying Flutter for mobile
+- 👨‍💻 Fullstack Developer
+- 📲 I develop mobile apps using Flutter, Dart and Xamarin Forms
+- 🌐 I also build APIs using C#, .NET Core and SQL Server
 
 <div align="Center">
   <a href="https://github.com/MarcalDev">
