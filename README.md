@@ -1,4 +1,4 @@
-## Hi, I'm João Pedro Marçal!
+## Hi, I'm João!
 
 <img src="https://github.com/MarcalDev/MarcalDev/blob/main/header_readme.png">
 I am a developer passionate about the mobile universe and creating innovative solutions that improve people's quality of life and boost organizations' productivity 😄
