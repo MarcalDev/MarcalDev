@@ -1,14 +1,8 @@
-## Hello! I'm João Marçal!
+## Hi, I'm João Marçal!
 
-- 👨‍💻 Fullstack Developer
-- 📲 I develop mobile apps using Flutter, Dart and Xamarin Forms
-- 🌐 I also build APIs using C#, .NET Core and SQL Server
+I'm a student of Database and a Mobile Developer! 😄
 
-<div align="Center">
-  <a href="https://github.com/MarcalDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcalDev&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcalDev&layout=compact&langs_count=7&theme=merko"/>
-</div>
+<img src="https://github.com/MarcalDev/MarcalDev/blob/main/header_readme.png">
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
