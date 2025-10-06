@@ -1,7 +1,6 @@
 ## Hi, I'm João!
 
-<img src="https://github.com/MarcalDev/MarcalDev/blob/main/header_readme.png">
-I am a developer passionate about the mobile universe and creating innovative solutions that improve people's quality of life and boost organizations' productivity 😄
+I am a developer passionate about the backend and mobile universe and creating innovative solutions that improve people's quality of life and boost organizations' productivity 😄
 
 ## Languages
 <div style="display: inline_block"><br>
